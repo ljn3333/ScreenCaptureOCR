@@ -8,3 +8,4 @@
 `python main.py`
 
 ## display
+![image](https://github.com/ljn3333/ScreenCaptureOCR/blob/main/pic/1738931501422.jpg)
